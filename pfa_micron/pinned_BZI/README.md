@@ -8,3 +8,5 @@ holes didn't align with the existing micron BZI body piece, so I cooked up this
 version from scratch in FreeCAD.
 
 Disclaimer: not tested yet~
+
+Works with clee's [BZI](https://github.com/clee/VoronBFI) (for micron).
